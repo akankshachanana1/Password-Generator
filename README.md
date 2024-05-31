@@ -14,7 +14,8 @@ Creates strong and random passwords for users, enhancing security by preventing 
 ### Technologies
 Project is created with:
 
--React.js
-- HTML5
+
+- React.js
+- HTML
 - Tailwind CSS
 - JavaScript 
