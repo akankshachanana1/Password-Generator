@@ -1,7 +1,7 @@
 # Password Generator
 
 Check it out 
-[Create React App](https://password-generator-ashen-ten.vercel.app/).
+[Password Generator](https://password-generator-ashen-ten.vercel.app/).
 
 Creates strong and random passwords for users, enhancing security by preventing common mistakes like using easily guessable passwords or reusing the same password across multiple sites.
 
